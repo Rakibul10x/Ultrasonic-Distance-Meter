@@ -148,15 +148,15 @@ void loop() {
 <table align="center" border="0" cellpadding="10">
     <tr>
         <td align="center">
-            <img src="images/project_component_list.jpg" alt="Project Component List" width="300">
+            <img src="https://github.com/Rakibul10x/Ultrasonic-Distance-Meter/blob/main/Project%20Component%20List.png" alt="Project Component List" width="300">
             <p>📸 Project Component List</p>
         </td>
         <td align="center">
-            <img src="images/wiring_schematic_diagram.jpg" alt="Wiring and Schematic Diagram" width="300">
+            <img src="https://github.com/Rakibul10x/Ultrasonic-Distance-Meter/blob/main/Wiring%20and%20Schematic%20Diagram.png" alt="Wiring and Schematic Diagram" width="300">
             <p>📸 Wiring and Schematic Diagram</p>
         </td>
         <td align="center">
-            <img src="images/performance_analysis.jpg" alt="Ultrasonic Distance Sensor Test and Performance Analysis" width="300">
+            <img src="[images/performance_analysis.jpg](https://github.com/Rakibul10x/Ultrasonic-Distance-Meter/blob/main/Ultrasonic%20Distance%20Sensor%20Test%20and%20Performance%20Analysis.png)" alt="Ultrasonic Distance Sensor Test and Performance Analysis" width="300">
             <p>📸 Ultrasonic Distance Sensor Test and Performance Analysis</p>
         </td>
     </tr>
