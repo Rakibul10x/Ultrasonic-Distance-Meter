@@ -156,7 +156,7 @@ void loop() {
             <p>📸 Wiring and Schematic Diagram</p>
         </td>
         <td align="center">
-            <img src="[images/performance_analysis.jpg](https://github.com/Rakibul10x/Ultrasonic-Distance-Meter/blob/main/Ultrasonic%20Distance%20Sensor%20Test%20and%20Performance%20Analysis.png)" alt="Ultrasonic Distance Sensor Test and Performance Analysis" width="300">
+            <img src="https://github.com/Rakibul10x/Ultrasonic-Distance-Meter/blob/main/Ultrasonic%20Distance%20Sensor%20Test%20and%20Performance%20Analysis.png" alt="Ultrasonic Distance Sensor Test and Performance Analysis" width="300">
             <p>📸 Ultrasonic Distance Sensor Test and Performance Analysis</p>
         </td>
     </tr>
@@ -172,7 +172,7 @@ void loop() {
 
 <p>📩 Feel free to <b>fork</b>, <b>improve</b>, and <b>submit a pull request</b> to add new features.</p>
 
-<p>For any queries or suggestions, reach out to <b><a href="mailto:YourEmail@example.com">YourEmail@example.com</a></b>.</p>
+<p>For any queries or suggestions, reach out to <b><a href="mailto:YourEmail@example.com">rakibul10x@gmail.com.com</a></b>.</p>
 
 <hr>
 
