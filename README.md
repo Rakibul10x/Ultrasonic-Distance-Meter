@@ -139,6 +139,33 @@ void loop() {
 
 <hr>
 
+<hr>
+
+<h2>📽️ Project Demos</h2>
+
+<p>Here are some project snapshots:</p>
+
+<table align="center" border="0" cellpadding="10">
+    <tr>
+        <td align="center">
+            <img src="images/project_component_list.jpg" alt="Project Component List" width="300">
+            <p>📸 Project Component List</p>
+        </td>
+        <td align="center">
+            <img src="images/wiring_schematic_diagram.jpg" alt="Wiring and Schematic Diagram" width="300">
+            <p>📸 Wiring and Schematic Diagram</p>
+        </td>
+        <td align="center">
+            <img src="images/performance_analysis.jpg" alt="Ultrasonic Distance Sensor Test and Performance Analysis" width="300">
+            <p>📸 Ultrasonic Distance Sensor Test and Performance Analysis</p>
+        </td>
+    </tr>
+</table>
+
+<hr>
+
+
+
 <h2>📌 Contribution & Support</h2>
 
 <p>If you love this project, consider giving it a ⭐ and contributing to its future enhancements!</p>
